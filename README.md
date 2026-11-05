@@ -1,6 +1,7 @@
 # TheGaBr0
 
-Software developer focused on Minecraft plugin development and cybersecurity. I build and contribute to Minecraft plugins, and have experience in C, Java and Python, currently working mainly in Python. I'm interested in cryptography and software security.
+Cybersecurity professional with experience in C, Java and Python, currently working mainly in Python. I'm actively working on cryptography and software security, and in my free time I build Minecraft plugins.
+
 
 BSc in Cybersecurity, University of Milan (Università degli Studi di Milano).
 ## Tech Stack
