@@ -21,3 +21,4 @@ BSc in Cybersecurity, University of Milan (Università degli Studi di Milano).
 
 - [PlayTimeManager](https://github.com/TheGaBr0/PlayTimeManager) — Minecraft player activity tracking and rewards.
 - [GGH](https://github.com/TheGaBr0/GGH) — Lattice-based cryptography implementations and cryptanalysis.
+- [modularot](https://github.com/TheGaBr0/modularot) — Modular post-quantum 1-out-of-n oblivious transfer, agnostic to the underlying KEM.
