@@ -19,6 +19,6 @@ BSc in Cybersecurity, University of Milan (Università degli Studi di Milano).
 
 ## Projects I'm proud of
 
-- [PlayTimeManager](https://github.com/TheGaBr0/PlayTimeManager) — Minecraft player activity tracking and rewards.
+- [PlayTimeManager](https://github.com/TheGaBr0/PlayTimeManager) — Minecraft player activity tracking and rewards plugin.
 - [GGH](https://github.com/TheGaBr0/GGH) — Lattice-based cryptography implementations and cryptanalysis.
 - [modularot](https://github.com/TheGaBr0/modularot) — KEM-based, KEM-agnostic 1-out-of-n oblivious transfer framework.
